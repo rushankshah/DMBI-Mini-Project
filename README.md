@@ -1,2 +1,3 @@
 # DMBI-Mini-Project
-Data Mining and Business Intelligence Mini Project based on Churn Data
+
+For sem 6 Data Mining and Business Intelligence subject- Customer churnout data for the mini project of this subject.
